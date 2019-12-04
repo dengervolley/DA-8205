@@ -9,6 +9,7 @@ class Manager
 public:
 	Manager();
 	void menu();
+	
 	Map map;
 	Gameplay play;
 	~Manager();
